@@ -1,0 +1,1 @@
+Este fichero es para demostrar el acceso simultáneo a carpetas compartidas en Git
