@@ -1,0 +1,9 @@
+﻿<?xml version="1.0"?>
+<root>
+ <element1 atr="ATR1">
+  <element11> Aaa </element11>
+  <element12> Bbb </element12> </element1>
+ <element1 atr="ATR2">
+  <element11> Ccc </element11>
+  <element12> Ddd </element12> </element1>
+</root>
